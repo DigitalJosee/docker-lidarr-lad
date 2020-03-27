@@ -42,7 +42,7 @@ RUN \
 	# make directory
 	mkdir -p ${LAD_PATH} && \
 	# download repo
-	git clone https://github.com/RandomNinjaAtk/lidarr-automated-downloader.git ${LAD_PATH}
+	git clone https://github.com/DigitalJosee/lidarr-automated-downloader.git ${LAD_PATH}
 
 RUN \
 	# ffmpeg
