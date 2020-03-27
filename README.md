@@ -13,6 +13,8 @@ This containers base image is provided by: [linuxserver/lidarr:preview](https://
 
 ## Supported Architectures
 
+WORK IN PROGRESS
+
 The architectures supported by this image are:
 
 | Architecture | Tag |
